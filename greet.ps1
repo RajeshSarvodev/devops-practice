@@ -1,0 +1,1 @@
+Write-Output "HEllo, Devops!   date today is $(Get-Date -Format 'dddd, MMMM  dd, yyyy')"
